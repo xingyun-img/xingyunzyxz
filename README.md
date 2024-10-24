@@ -1,4 +1,3 @@
-
 # 星云资源下载页
 ## 简介
 
@@ -35,7 +34,7 @@
 
 ### 程序问题反馈
 
-问题反馈群/功能投稿: [点击链接加入群聊反馈『功能投稿群』：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bgVWDKbLF3f4Hjxg8G443kWTZEAih753&authKey=VFZ1tdqgL8qyEOeKHZK1YBQRmiAZBggW1TUae7BgKbi6DRCzKNSGtxzwpDuezG4j&noverify=0&group_code=250878330](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bgVWDKbLF3f4Hjxg8G443kWTZEAih753&authKey=VFZ1tdqgL8qyEOeKHZK1YBQRmiAZBggW1TUae7BgKbi6DRCzKNSGtxzwpDuezG4j&noverify=0&group_code=250878330)
+问题反馈群/功能投稿: [点击链接加入QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bgVWDKbLF3f4Hjxg8G443kWTZEAih753&authKey=VFZ1tdqgL8qyEOeKHZK1YBQRmiAZBggW1TUae7BgKbi6DRCzKNSGtxzwpDuezG4j&noverify=0&group_code=250878330)
 
 #### 使用说明
 
